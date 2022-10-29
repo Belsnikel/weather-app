@@ -1,5 +1,5 @@
 const link =
-  "http://api.weatherstack.com/current?access_key=16ebbd42d9cceffcf5d094c7dbdb0d38&query=Vladikavkaz";
+  "https://api.weatherstack.com/current?access_key=16ebbd42d9cceffcf5d094c7dbdb0d38&query=Vladikavkaz";
 
 const root = document.getElementById("root");
 const popup = document.getElementById("popup");
